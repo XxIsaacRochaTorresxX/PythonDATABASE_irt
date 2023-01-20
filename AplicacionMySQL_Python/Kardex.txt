@@ -1,0 +1,129 @@
+18420427|Base de Datos|100
+18420427|Matemáticas IV|80
+18420427|Programación I|93
+18420427|Desarrollo Web|85
+18420427|Contabilidad|96
+18420427|Inteligencia Artificial|90
+18420428|Inteligencia Artificial|87
+18420428|Desarrollo Web|91
+18420428|Base de Datos|85
+18420428|Matematicas discretas|80
+18420428|Fundamenrtos de programación|95
+18420424|Desarrollo Web|75
+18420424|Programación I|87
+18420424|Base de Datos|92
+18420430|Base de Datos|87
+18420430|Matemáticas IV|89
+18420430|Desarrollo Web|87
+18420430|Contabilidad|91
+18420447|Inteligencia Artificial|91
+18420447|Matemáticas IV|98
+18420447|Programación I|90
+18420447|Desarrollo Web|82
+18420447|Base de Datos|78
+18420451|Contabilidad|78
+18420451|Desarrollo Web|87
+18420451|Base de Datos|92
+18420451|Matemáticas IV|100
+18420451|Inteligencia Artificial|98
+18420453|Estructura de datos|85
+18420453|Programacion Python|82
+18420453|Diseño web con React|87
+18420453|Microservicios|91
+18420453|Computo en la nube|98
+21420007|Diseño web con React|77
+21420007|Inteligencia Artificial|87
+21420007|Programacion Python|87
+21420007|Programación I|78
+21420007|Contabilidad|77
+18420455|Programacion Python|87
+18420455|Diseño web con React|77
+18420455|Estructura de datos|85
+18420455|Matemáticas IV|100
+18420458|Programación I|93
+18420458|Contabilidad|80
+18420458|Diseño web con React|99
+18420458|Inteligencia Artificial|97
+18420458|Programacion Python|77
+18420458|Matemáticas IV|80
+18420461|Computo en la nube|92
+18420461|Estructura de datos|89
+18420461|Inteligencia Artificial|89
+18420461|Programación I|78
+18420461|Matemáticas IV|88
+18420465|Diseño web con React|79
+18420465|Estructura de datos|99
+18420465|Programacion Python|88
+18420465|Inteligencia Artificial|88
+18420465|Contabilidad|85
+17420582|Inteligencia Artificial|98
+17420582|Diseño web con React|89
+17420582|Estructura de datos|79
+17420582|Contabilidad|83
+18420469|Estructura de datos|95
+18420469|Inteligencia Artificial|95
+18420469|Programación I|86
+18420469|Matemáticas IV|89
+18420469|Programación I|85
+18420469|Computo en la nube|83
+18420470|Computo en la nube|93
+18420470|Inteligencia Artificial|75
+18420470|Contabilidad Financiera|87
+18420470|Finanzas|85
+18420473|Analisis y diseño de sistemas de informacion|85
+18420473|Programacion orientadada objetos|95
+18420473|Microservicios|95
+18420473|Base de datos distribuidas|75
+18420473|Diseño UX y UI|85
+18420478|Inteligencia Artificial|95
+18420478|Analisis y diseño de sistemas de informacion|98
+18420478|Programacion orientadada objetos|75
+18420478|Microservicios|85
+18420478|Contabilidad Financiera|91
+18420478|Diseño UX y UI|95
+18420484|Programacion orientadada objetos|83
+18420484|Inteligencia Artificial|85
+18420484|Microservicios|93
+18420485|Inteligencia Artificial|85
+18420485|Diseño UX y UI|100
+18420485|Base de datos distribuidas|85
+18420485|Programacion orientadada objetos|73
+18420485|Analisis y diseño de sistemas de informacion|78
+18420493|Contabilidad Financiera|83
+18420493|Microservicios|87
+18420493|Diseño UX y UI|100
+18420493|Base de datos distribuidas|95
+18420493|Finanzas|87
+18420493|Matemáticas IV|100
+18420495|Analisis y diseño de sistemas de informacion|73
+18420495|Base de datos distribuidas|81
+18420495|Microservicios|89
+18420495|Diseño UX y UI|90
+18420495|Matemáticas IV|80
+16420537|Contabilidad Financiera|73
+16420537|Matemáticas IV|70
+16420537|Diseño UX y UI|9|
+16420537|Finanzas|89
+16420537|Analisis y diseño de sistemas de informacion|87
+18420079|Finanzas internacionales IV|100
+18420079|Matemáticas IV|100
+18420079|Diseño UX y UI|91
+18420097|Diseño UX y UI|81
+18420097|Microservicios|99
+18420097|Analisis y diseño de sistemas de informacion|93
+18420097|Contabilidad Financiera|83
+18420097|Finanzas internacionales IV|90
+18420097|Algoritmos inteligentes|100
+18420098|Algoritmos inteligentes|89
+18420098|Finanzas internacionales IV|93
+18420098|Contabilidad Financiera|88
+18420098|Diseño UX y UI|71
+18420098|Microservicios|77
+18420098|Base de datos distribuidas|87
+18420100|Finanzas internacionales IV|80
+18420100|Contabilidad Financiera|89
+18420100|Algoritmos inteligentes|99
+18420100|Base de datos distribuidas|91
+18420100|Diseño UX y UI|71
+18420100|Microservicios|89
+18420100|Analisis y diseño de sistemas de informacion|100
